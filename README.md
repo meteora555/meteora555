@@ -1,16 +1,22 @@
-### Hi there 👋
+### Привет, меня зовут Антон 👋
 
-<!--
-**meteora555/meteora555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#- 🙋‍♂️🙋‍♀️🙋‍♂️ Хочу работать в команде
+#- 📚 Всегда учусь новому
+#- ⚡ Лучшее занятие для субботнего вечера? Конечно же писать код 😄😄😄
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Стек: 🌟 Javascript 🌟 TypeScript 🌟 React  🌟 Redux 🌟 HTML/CSS/SCSS/ 🌟 Gulp/Webpack
+
+
+#
+#
+#
+
+
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meteora555)](https://git.io/streak-stats)
+
+
