@@ -5,7 +5,7 @@
 - ⚡ Лучшее занятие для субботнего вечера? Конечно же писать код 😄😄😄
 
 
-Стек: 🌟 Javascript 🌟 TypeScript 🌟 React  🌟 Redux 🌟 Html/Css/Scss/ 🌟 Gulp/Webpack
+Стек: 🌟 Javascript 🌟 TypeScript 🌟 React 🌟 Nextjs 🌟 AstroJs  🌟 Redux 🌟 rtk querry 🌟 NestJs  🌟 Html/Css/Scss/ 🌟 Webpack
 
 
 #
